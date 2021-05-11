@@ -49,7 +49,7 @@ Siva Prasad reddy said:
 
 - [ ] this task is not completed
 
-- [x] @kspreddy11 ***formetting*** <del> love </del> supported
+- [x] @kspreddy11 ***formetting*** <del> Ramya </del> supported
 
 Atomic number| Name of the element| Symbol| Mass Number
 -------------|-------------------|-------|-------------
