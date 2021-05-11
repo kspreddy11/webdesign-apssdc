@@ -51,9 +51,9 @@ Siva Prasad reddy said:
 
 - [x] @kspreddy11 ***formetting*** <del> love </del> supported
 
-Atomic number| Name of the element| Symbol| Mass Number|electronic configuration
--------------|-------------------|-------|-------------|----------------------
-1|hydrogen|H|1|
+Atomic number| Name of the element| Symbol| Mass Number
+-------------|-------------------|-------|-------------
+1|hydrogen|H|1
 2|Helium|He|4
 3|Lithium|Li|7
 4|Beryllium|Be|9
