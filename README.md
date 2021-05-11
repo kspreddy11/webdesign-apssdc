@@ -38,3 +38,10 @@ this is complete course on webdesigning provided by apssdc by using reactjs
 [vels vidhyalaya cbse school](https://velsvidhyalaya.edu.in/)
 
 [flipkart](https://www.flipkart.com/)
+
+Siva Prasad reddy said:
+> i am very happy today 
+> because i am learning web desining
+> 
+> A block quotation (also known as a long quotation or extract) is a quotation in a written document that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation and a different typeface or smaller size font. This is in contrast to setting it off with quotation marks in a run-in quote. Block quotations are used for long quotations. The Chicago Manual of Style recommends using a block quotation when extracted text is 100 words or more, or approximately six to eight lines in a typical manuscript.
+
